@@ -4,3 +4,10 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
+vendor/
+.local_backups/
+.aim/
+data/
+images/
+models/
+emissions.csv
